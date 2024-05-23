@@ -1,0 +1,33 @@
+# Privacy Policy for Family Search Assistant
+
+## Introduction
+This privacy policy document outlines the types of personal information received and collected by Family Search Assistant and how it is used.
+
+## Information Collection and Use
+Family Search Assistant may collect the following information from its users:
+
+- **User Activity**: Only accessed to allow inputs to be saved when extension is closed and is not collected or transmitted anywhere else.
+
+Please note that Family Search Assistant does not collect more information than is necessary to fulfill its stated purposes.
+
+## Data Storage
+The data collected by Family Search Assistant is stored:
+
+- Locally on the user's device: Text inputs and mouse clicks to allow users to easier track those they're indexing.
+
+## Data Sharing
+Family Search Assistant does not share, sell, rent, or trade personally identifiable information with third parties for their commercial purposes.
+
+## User Control and Access
+Users can access and control their data by:
+
+- Viewing their data within the extension's text boxes.
+- Deleting their data by uninstalling the extension or simply deleting the text in the boxes.
+
+## Changes to This Privacy Policy
+Ryan Donaldson, extension developer, reserves the right to make changes to this privacy policy at any time. Users will be notified of any changes through extension updates.
+
+## Contact Information
+For any questions or concerns regarding this privacy policy, please contact me at ryanwblue@gmail.com
+
+This policy is effective as of May 22nd, 2024

@@ -1,0 +1,17 @@
+{
+    "name":"Family Search Assistant",
+    "version":"1.0.0",
+    "description": "A tool to help organize and track idividuals in Family Search",
+    "manifest_version": 3,
+    "author":"Ryan Donaldson",
+    "permissions": [
+        "tabs",
+        "activeTab"
+      ],
+      "action": {
+        "default_popup": "index.html"
+      },
+      "background": {
+        "service-worker": "script.js"
+      }
+}

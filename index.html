@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Family Search Assistant</title>
+  <style>
+    body {
+      width: 400px;
+      height: 300px;
+      padding: 10px;
+      font-family: Arial, sans-serif;
+    }
+    #content {
+      overflow: auto;
+      height: 100%;
+    }
+  </style>
+</head>
+<body>
+  <div id="content">
+    <h1>Family Search Assistant</h1>
+    <form>
+      <label for="IDtext">ID Number:</label>
+      <input type="text" class="inputBox" id="IDtext" name="IDnumbers" size="8" maxlength="8" style="text-transform: uppercase;"><br><br>
+    </form>
+    <form>
+      <p>Tasks:</p>
+      <input type="checkbox" id="task1" name="task1" value="Task1">
+      <input type="text" class="inputBox" id="task1box" name="Task1Box"><br>
+      <input type="checkbox" id="task2" name="task2" value="Task2">
+      <input type="text" class="inputBox" id="task2box" name="Task2Box"><br>
+      <input type="checkbox" id="task3" name="task3" value="Task3">
+      <input type="text" class="inputBox" id="task3box" name="Task3Box"><br>
+    </form>
+  </div>
+
+  <!-- Include jQuery-->
+  <script src="jquery.min.js"></script>
+  <!-- Include your JavaScript file -->
+  <script src="script.js"></script>
+
+</body>
+</html>
